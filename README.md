@@ -1,31 +1,31 @@
-# 🚀 AI & ML Project Showcase 2025
+# 🚀 Machine Learning Projects 2025
 
-A collection of advanced AI/ML projects focused on healthcare and image processing using deep learning and transformer architectures.
-
----
-
-## 📂 Projects Included
-
-### ❤️ 1. Heart Disease Prediction
-A machine learning model that predicts the likelihood of heart disease using clinical parameters like age, cholesterol, and blood pressure.  
-**Tech:** Python, Scikit-learn, Logistic Regression, Random Forest
-
-### 🧠 2. Segmentation Transformer
-An image segmentation model using Vision Transformers (ViTs) to detect and highlight specific regions in medical or satellite images.  
-**Tech:** PyTorch, Hugging Face Transformers, SegFormer
-
-### 🧬 3. IRES (Intelligent Recognition & Evaluation System)
-A smart system designed to analyze structured/unstructured data for decision-making or recognition tasks (e.g., facial, document, or speech recognition).  
-**Tech:** Deep Learning, OpenCV, TensorFlow
+A curated collection of advanced Machine Learning and Deep Learning projects focused on healthcare and vision tasks.
 
 ---
 
-## 🛠️ Installation
+## 📂 Projects Overview
+
+### ❤️ Heart Disease Prediction
+Predicts the risk of heart disease using patient data like age, cholesterol, and blood pressure.  
+**Tech Stack:** Python, Scikit-learn, Logistic Regression, Random Forest
+
+### 🧠 Segmentation Transformer
+Implements a Vision Transformer (ViT) model for image segmentation in medical or satellite imagery.  
+**Tech Stack:** PyTorch, Hugging Face, SegFormer
+
+### 🔍 IRES – Intelligent Recognition & Evaluation System
+An AI system for intelligent recognition tasks such as face or pattern detection using deep learning techniques.  
+**Tech Stack:** TensorFlow, OpenCV, CNN
+
+---
+
+## ⚙️ Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/piyushgupta246/ML.git
+cd ML
 
-# Install dependencies
+# Install required libraries
 pip install -r requirements.txt
